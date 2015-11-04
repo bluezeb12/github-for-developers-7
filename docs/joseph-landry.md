@@ -1,4 +1,4 @@
-##Name!## Joseph Landry
-##Country!## USA
-##Favorite Food!## Rice
-##Hobby!## Computer Programming
+**Name:** Joseph Landry
+**Country:** USA
+**Favorite Food:** Rice
+**Hobby:**Computer Programming
